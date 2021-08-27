@@ -1,7 +1,5 @@
 ### Hi there 👋
-2021-08-09~
-
-[Fuzzing project](https://github.com/Hwangwoosam/fuzzing)
+[Fuzzing project](https://github.com/Hwangwoosam/fuzzing)(2021-08-09~)
 
 [BOJ](https://github.com/Hwangwoosam/BOJ)
 <!--
