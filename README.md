@@ -1,7 +1,6 @@
 ### Hi there 👋
 major in C.S in Handong Global Univ.
 
-[깃헙블로그](https://hwangwoosam.github.io/)
 
 [Fuzzing project](https://github.com/Hwangwoosam/fuzzing)(2021-08-09~2021-11-03)
 
