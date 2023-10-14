@@ -10,7 +10,7 @@ major in C.S in Handong Global Univ.
 
 [MoneyBank 가계부 Project](https://github.com/Hwangwoosam/MoneyBank)(2023-06-01 ~ ing)
 
-[AzureFunctionOpenAPI Extension](https://github.com/OSC-Masters-Team/azure-functions-openapi-extension)(2023-07 ~ ing)
+[AzureFunctionOpenAPI Extension](https://github.com/OSC-Masters-Team/azure-functions-openapi-extension)(2023-07 ~ 2023-10)
 
 [BOJ](https://github.com/Hwangwoosam/BOJ)
 - Problem Solving    
