@@ -16,7 +16,7 @@ major in C.S in Handong Global Univ.
 
 
 
-[BOJ](https://github.com/Hwangwoosam/BOJ)
+[Blog](https://hwangwoosam.github.io/)
 - Problem Solving    
   - [Baekjoon](https://www.acmicpc.net/user/sam1783)       
        
