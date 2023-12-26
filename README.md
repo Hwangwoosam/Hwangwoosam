@@ -10,7 +10,7 @@ major in C.S in Handong Global Univ.
 [J-Diagram](https://github.com/OH318/J-Diagram)(2022-04 ~ 2022-06)  
 
 [AzureFunctionOpenAPI Extension](https://github.com/OSC-Masters-Team/azure-functions-openapi-extension)(2023-07 ~ 2023-10)  
-[위 프로젝트 진행사항](https://github.com/OSC-Masters-Team/azure-functions-openapi-extension/wiki)
+[위 프로젝트 진행사항]([https://github.com/OSC-Masters-Team/azure-functions-openapi-extension/wiki](https://github.com/OSC-Masters-Team/azure-functions-openapi-extension/wiki/AzureFunctionOpenAPI-%EC%A7%84%ED%96%89-%EC%83%81%ED%99%A9-%E2%80%90-%EC%9A%B0%EC%82%BC))
 
 [MoneyBook 가계부 Project](https://github.com/Hwangwoosam/MoneyBook)(2023-06-01 ~ ing)
 
