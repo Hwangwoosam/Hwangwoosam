@@ -16,7 +16,7 @@ major in C.S in Handong Global Univ.
 
 [Back-End Proejct-Cloud Storage](https://github.com/Hwangwoosam/Back-EndProject)(2023-12 ~ 2024-03)  
 [Back-End Proejct-Cloud Storage2](https://github.com/Hwangwoosam/BackEnd-Mini-pay)(2024-04 ~ ing)  
-[Blog](https://hwangwoosam.github.io/)
+[Blog 주소](https://wood-codeatlas.tistory.com/)
 - Problem Solving    
   - [Baekjoon](https://www.acmicpc.net/user/sam1783)       
        
