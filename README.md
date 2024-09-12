@@ -15,7 +15,7 @@ major in C.S in Handong Global Univ.
 [MoneyBook 가계부 Project](https://github.com/Hwangwoosam/MoneyBook)(2023-06-01 ~ 일시중단)
 
 [Back-End Proejct-Cloud Storage](https://github.com/Hwangwoosam/Back-EndProject)(2023-12 ~ 2024-03)  
-[Back-End Proejct-Cloud Storage2](https://github.com/Hwangwoosam/BackEnd-Mini-pay)(2024-04 ~ ing)  
+[Back-End Proejct-Mini pay](https://github.com/Hwangwoosam/BackEnd-Mini-pay)(2024-04 ~ ing)  
 [Blog 주소](https://wood-codeatlas.tistory.com/) (2024-08 ~ing)
 - Problem Solving    
   - [Baekjoon](https://www.acmicpc.net/user/sam1783)       
