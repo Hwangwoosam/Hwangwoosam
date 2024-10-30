@@ -16,6 +16,7 @@ major in C.S in Handong Global Univ.
 
 [Back-End Proejct-Cloud Storage](https://github.com/Hwangwoosam/Back-EndProject)(2023-12 ~ 일시중단)  
 [Back-End Proejct-Mini pay](https://github.com/Hwangwoosam/BackEnd-Mini-pay)(2024-04 ~ 일시중단)  
+[Study/Project 관리 플랫폼 Coggiri](https://github.com/HAE-Side-Project/COKKIRI_Backend)(2024.09 ~)
 [Blog 주소](https://wood-codeatlas.tistory.com/) (2024-08 ~ing)
 - Problem Solving    
   - [Baekjoon](https://www.acmicpc.net/user/sam1783)       
