@@ -14,8 +14,6 @@ major in C.S in Handong Global Univ.
 
 [MoneyBook 가계부 Project](https://github.com/Hwangwoosam/MoneyBook)(2023-06-01 ~ 일시중단)
 
-[Back-End Proejct-Cloud Storage](https://github.com/Hwangwoosam/Back-EndProject)(2023-12 ~ 일시중단)  
-[Back-End Proejct-Mini pay](https://github.com/Hwangwoosam/BackEnd-Mini-pay)(2024-04 ~ 일시중단)  
 [Study/Project 관리 플랫폼 Coggiri](https://github.com/HAE-Side-Project/COKKIRI_Backend)(2024.09 ~)  
 [SFAAS 모니터링 시스템](https://github.com/HAE-SMARTFACTORY-2/SFaaS-Server)(2024.12.01 ~ 2024.12.20)  
 [Blog 주소](https://wood-codeatlas.tistory.com/) (2024-08 ~ing)
